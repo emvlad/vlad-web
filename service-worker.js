@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/emvlad/vlad-web.git/precache-manifest.4f0b5f5c483047da253b234fc30e3512.js"
+  "/vlad-web/precache-manifest.5833ec31aed21f7750371eb0ce5fe3ac.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/emvlad/vlad-web.git/index.html", {
+workbox.routing.registerNavigationRoute("/vlad-web/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
