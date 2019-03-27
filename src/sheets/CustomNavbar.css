@@ -1,0 +1,32 @@
+
+
+.dropdown-item {
+  color:blue;
+  background-color: lightblue
+}
+
+.navbar {
+ 
+  background-color: blue;
+}
+.dropdown-menu{
+    background-color:lightblue
+}
+
+
+a:hover {
+  color: red;
+  text-decoration: none;
+  text-decoration-line: none;
+  text-decoration-style: solid;
+  text-decoration-color: currentcolor;
+}
+a {
+  color: yellow;
+}
+
+dropdown-item:focus, .dropdown-item:hover {
+    color: red;
+    text-decoration: none;
+    background-color: #f8f9fa;
+}

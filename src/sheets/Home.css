@@ -1,0 +1,59 @@
+.jumbotron {
+  background-color: lightskyblue;
+  border-radius: 0.3rem;
+  color: blue;
+}
+img.head {
+  float: right;
+  border-style: groove;
+  height: 160px;
+  width: 160px;
+  margin: 2px;
+  padding: 2px;
+  border-radius: 20%;
+}
+p {
+  color: yellow;
+  text-align: justify;
+}
+
+.text-wrapper {
+  color: yellow;
+  text-align: justify;
+}
+img.shortpants {
+  vertical-align: middle;
+  border-style: none;
+  height: 160px;
+  width: 160px;
+  margin: 2px;
+  padding: 2px;
+  border-radius: 20%;
+}
+
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-left: 100px;
+}
+h4 {
+  color: white;
+}
+.person-wrapper {
+  box-align: center;
+}
+
+.container {
+  max-width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: rgb(7, 124, 197);
+  align-self: center;
+}
+.navbar {
+  max-width: 100%;
+}
