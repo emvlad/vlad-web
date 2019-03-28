@@ -2,7 +2,7 @@
   "name": "chris-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://emvlad.github.io/vlad-web",
+  "homepage": "https://emvlad.github.io/vlad-web/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "env-cmd": "^8.0.2",
