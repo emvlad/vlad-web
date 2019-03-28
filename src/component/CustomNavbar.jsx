@@ -8,8 +8,12 @@ class CustomNavbar extends Component {
     return (
       <Navbar collapseOnSelect expand="lg" activeKey="/home">
         <NavDropdown title="Menu" id="collasible-nav-dropdown">
-          <NavDropdown.Item href="./News">News</NavDropdown.Item>
-          <NavDropdown.Item href="./About">About</NavDropdown.Item>
+          <NavDropdown.Item>
+            <Link to="/News">Blog</Link>
+          </NavDropdown.Item>
+          <NavDropdown.Item>
+            <Link to="/About">About</Link>
+          </NavDropdown.Item>
         </NavDropdown>
 
         <Navbar.Brand>
@@ -28,23 +32,3 @@ class CustomNavbar extends Component {
 }
 
 export default CustomNavbar;
-
-/*
-  <Navbar collapseOnSelect  bg="dark">      
-        <Navbar.Brand>
-          <Link to="/"> Home </Link>
-        </Navbar.Brand>
-        <Navbar.Toggle />        
-        <Navbar.Collapse>
-          <Nav pullRight>
-            <NavItem >
-                 <Nav.Link href="/News">News</Nav.Link>              
-            </NavItem>
-            <NavItem>
-                <Nav.Link href="/About">About</Nav.Link>              
-            </NavItem>
-          </Nav>
-        </Navbar.Collapse>
-      </Navbar>
-
-*/

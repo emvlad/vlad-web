@@ -11,7 +11,7 @@ class Home extends Component {
         <Row className="show-grid text-center">
           <Col xs={5} sm="2" className="person-wrapper">
             <Image
-              src="..\photos\15-jennifer-lopez.jpg"
+              src="..\photos\15-jennifer-lopez.png"
               className="shortpants"
             />
             <h4>Jlom mini Jean</h4>
@@ -26,7 +26,7 @@ class Home extends Component {
             </p>
           </Col>
           <Col xs={12} sm="2" className="person-wrapper">
-            <Image src="..\photos\jloGlad.jpg" className="shortpants" />
+            <Image src="..\photos\jloGlad.png" className="shortpants" />
             <h4>Awesome Girl</h4>
             <p className="text-wrapper">
               This is truly an almighty mountain. It's almost like something out
@@ -38,7 +38,7 @@ class Home extends Component {
           </Col>
           <Col xs={12} sm="2" className="person-wrapper">
             <Image
-              src="..\photos\angelina-jolie-12.jpg"
+              src="..\photos\angelina-jolie-12.png"
               className="shortpants"
             />
             <h4>Angel Way 2</h4>
@@ -51,7 +51,7 @@ class Home extends Component {
             </p>
           </Col>
           <Col xs={12} sm="2" className="person-wrapper">
-            <Image src="..\photos\NickiMinaj54.jpg" className="shortpants" />
+            <Image src="..\photos\NickiMinaj54.png" className="shortpants" />
             <h4>Nicky Mania</h4>
             <p className="text-wrapper">
               So often we avoid running water, and running water is a lot of
@@ -67,7 +67,7 @@ class Home extends Component {
             </p>
           </Col>
           <Col xs={12} sm="2" className="person-wrapper">
-            <Image src="..\photos\Yonc57.jpg" className="shortpants" />
+            <Image src="..\photos\Yonc57.png" className="shortpants" />
             <h4>Be sure and See</h4>
             <p className="text-wrapper">
               Think about a cloud. Just float around and be there. This is your
