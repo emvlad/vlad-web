@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/vlad-web/static/media/jloGlad.ee301f57.png"
   },
   {
-    "revision": "ffcc78058369f5aebd33",
+    "revision": "e1020430a22f6c46d7e5",
     "url": "/vlad-web/static/css/main.b9ad9ad3.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/vlad-web/static/media/15-jennifer-lopez.e33754ea.png"
   },
   {
-    "revision": "ffcc78058369f5aebd33",
-    "url": "/vlad-web/static/js/main.19068899.chunk.js"
+    "revision": "e1020430a22f6c46d7e5",
+    "url": "/vlad-web/static/js/main.05108514.chunk.js"
   },
   {
     "revision": "1f40f42f63c22927dd652754d5d08285",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/vlad-web/static/media/15-jlo11.700e7930.png"
   },
   {
-    "revision": "8956b900a6d0d4c11bf36af0ca96e4de",
+    "revision": "86f753095581033342bfa65ad86590e4",
     "url": "/vlad-web/index.html"
   }
 ];
