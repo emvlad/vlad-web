@@ -1,13 +1,15 @@
 {
-  "main.css": "/vlad-web/static/css/main.a8f296e4.chunk.css",
-  "main.js": "/vlad-web/static/js/main.b9ff4d46.chunk.js",
-  "main.js.map": "/vlad-web/static/js/main.b9ff4d46.chunk.js.map",
+  "main.css": "/vlad-web/static/css/main.8c5452a8.chunk.css",
+  "main.js": "/vlad-web/static/js/main.972600d9.chunk.js",
+  "main.js.map": "/vlad-web/static/js/main.972600d9.chunk.js.map",
   "runtime~main.js": "/vlad-web/static/js/runtime~main.0f5d579e.js",
   "runtime~main.js.map": "/vlad-web/static/js/runtime~main.0f5d579e.js.map",
-  "static/js/2.e1dc9165.chunk.js": "/vlad-web/static/js/2.e1dc9165.chunk.js",
-  "static/js/2.e1dc9165.chunk.js.map": "/vlad-web/static/js/2.e1dc9165.chunk.js.map",
+  "static/js/2.2fb3d28b.chunk.js": "/vlad-web/static/js/2.2fb3d28b.chunk.js",
+  "static/js/2.2fb3d28b.chunk.js.map": "/vlad-web/static/js/2.2fb3d28b.chunk.js.map",
   "index.html": "/vlad-web/index.html",
-  "precache-manifest.b784f25e1d7b0a6031099f13c9ca4222.js": "/vlad-web/precache-manifest.b784f25e1d7b0a6031099f13c9ca4222.js",
+  "precache-manifest.c30d22a854f8170c94d98d5d759b6980.js": "/vlad-web/precache-manifest.c30d22a854f8170c94d98d5d759b6980.js",
   "service-worker.js": "/vlad-web/service-worker.js",
-  "static/css/main.a8f296e4.chunk.css.map": "/vlad-web/static/css/main.a8f296e4.chunk.css.map"
+  "static/css/main.8c5452a8.chunk.css.map": "/vlad-web/static/css/main.8c5452a8.chunk.css.map",
+  "static/media/15-jennifer-lopez.png": "/vlad-web/static/media/15-jennifer-lopez.e33754ea.png",
+  "static/media/jloGlad.png": "/vlad-web/static/media/jloGlad.ee301f57.png"
 }
