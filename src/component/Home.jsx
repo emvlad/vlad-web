@@ -83,17 +83,16 @@ class Home extends Component {
           </Col>
           <Col xs={10} sm="2" className="person-wrapper">
             <Image src={jlome} className="shortpants" />
-            <h4>Be sure and See</h4>
+            <h4>Take me !</h4>
             <p className="text-wrapper">
-              Think about a cloud. Just float around and be there. This is your
-              creation - and it's just as unique and special as you are. Little
-              trees and bushes grow however makes them happy. We artists are a
-              different breed of people. We're a happy bunch. And I know you're
-              saying, 'Oh Bob, you've done it this time.' And you may be right.
-              You can't have light without dark. You can't know happiness unless
-              you've known sorrow. Let all these things just sort of happen.
-              When you buy that first tube of paint it gives you an artist
-              license.
+              I think there's an artist hidden in the bottom of every single one
+              of us. Those great big fluffy clouds. Use absolutely no pressure.
+              Just like an angel's wing. Pretend you're water. Just floating
+              without any effort. Having a good day. There it is. Talk to trees,
+              look at the birds. Whatever it takes. Water's like me. It's
+              laaazy ... Boy, it always looks for the easiest way to do things
+              This is truly an almighty mountain. You've got to learn to fight
+              the temptation to resist these things. Just let them happen.
             </p>
           </Col>
         </Row>
