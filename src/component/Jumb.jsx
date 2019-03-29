@@ -6,7 +6,7 @@ import "../sheets/Home.css";
 const jumb = () => {
   return (
     <Jumbotron>
-      <Image src="..\photos\VC0115.png" className="head" />
+      <Image src="../photos/VC0115.png" className="head" />
       <h2>Welcome to Chris-web</h2>
       <p> This is Chris web page with react</p>
       <Link to="/LearnMore">

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/vlad-web/precache-manifest.5833ec31aed21f7750371eb0ce5fe3ac.js"
+  "/vlad-web/precache-manifest.c30d22a854f8170c94d98d5d759b6980.js"
 );
 
 workbox.clientsClaim();

@@ -1,6 +1,9 @@
 import React, { Component } from "react";
 import Jumb from "./Jumb";
 import { Container, Row, Col, Image } from "react-bootstrap";
+import JLOPEZ from "../photos/15-jennifer-lopez.png";
+import JLOGLAD from "../photos/jloGlad.png";
+
 import "../sheets/Home.css";
 
 class Home extends Component {
@@ -10,10 +13,7 @@ class Home extends Component {
         <Jumb />
         <Row className="show-grid text-center">
           <Col xs={5} sm="2" className="person-wrapper">
-            <Image
-              src="..\photos\15-jennifer-lopez.png"
-              className="shortpants"
-            />
+            <JLOPEZ className="shortpants" />
             <h4>Jlom mini Jean</h4>
             <p className="text-wrapper">
               That's why I paint - because I can create the kind of world I want
@@ -26,7 +26,7 @@ class Home extends Component {
             </p>
           </Col>
           <Col xs={12} sm="2" className="person-wrapper">
-            <Image src="..\photos\jloGlad.png" className="shortpants" />
+            <JLOGLAD className="shortpants" />
             <h4>Awesome Girl</h4>
             <p className="text-wrapper">
               This is truly an almighty mountain. It's almost like something out
@@ -38,20 +38,9 @@ class Home extends Component {
           </Col>
           <Col xs={12} sm="2" className="person-wrapper">
             <Image
-              src="..\photos\angelina-jolie-12.png"
+              src="../photos/photos/NickiMinaj54.png"
               className="shortpants"
             />
-            <h4>Angel Way 2</h4>
-            <p className="text-wrapper">
-              We artists are a different breed of people. We're a happy bunch.
-              You are only limited by your imagination. Don't fight it, use what
-              happens. You have to make these big decisions. Here's something
-              that's fun. I will take some magic white, and a little bit of
-              Vandyke brown and a little touch of yellow.
-            </p>
-          </Col>
-          <Col xs={12} sm="2" className="person-wrapper">
-            <Image src="..\photos\NickiMinaj54.png" className="shortpants" />
             <h4>Nicky Mania</h4>
             <p className="text-wrapper">
               So often we avoid running water, and running water is a lot of
@@ -67,7 +56,7 @@ class Home extends Component {
             </p>
           </Col>
           <Col xs={12} sm="2" className="person-wrapper">
-            <Image src="..\photos\Yonc57.png" className="shortpants" />
+            <Image src="../photos/Yonc57.png" className="shortpants" />
             <h4>Be sure and See</h4>
             <p className="text-wrapper">
               Think about a cloud. Just float around and be there. This is your
