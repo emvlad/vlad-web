@@ -47,10 +47,9 @@ h4 {
 
 .container {
   max-width: 100%;
-  padding-right: 15px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
+  padding-right: auto;
+  padding-left: auto;
+  margin: auto;
   background-color: rgb(7, 124, 197);
   align-self: center;
 }

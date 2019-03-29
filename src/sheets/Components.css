@@ -1,5 +1,5 @@
 .jumbotron {
-  padding: 2rem 1rem;
+  padding: 3rem 2rem;
   margin-bottom: 2rem;
   background-color: lightskyblue;
   border-radius: 0.3rem;
@@ -40,10 +40,8 @@ h4 {
 
 .container {
   max-width: 100%;
-  padding-right: 15px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
+  padding: 2rem 8rem 0rem 3rem;
+  margin: auto;
   background-color: rgb(7, 124, 197);
   align-self: center;
 }

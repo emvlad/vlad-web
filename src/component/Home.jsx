@@ -1,9 +1,12 @@
 import React, { Component } from "react";
 import Jumb from "./Jumb";
 import { Container, Row, Col, Image } from "react-bootstrap";
-import JLOPEZ from "../photos/15-jennifer-lopez.png";
-import JLOGLAD from "../photos/jloGlad.png";
-
+import jlom from "../photos/15-jennifer-lopez.png";
+import jloGlad from "../photos/jloGlad.png";
+import angel from "../photos/angelina-jolie-12.png";
+import nicky from "../photos/NickiMinaj54.png";
+import beonc from "../photos/Yonc57.png";
+import jlome from "../photos/15-jlo11.png";
 import "../sheets/Home.css";
 
 class Home extends Component {
@@ -12,8 +15,8 @@ class Home extends Component {
       <Container>
         <Jumb />
         <Row className="show-grid text-center">
-          <Col xs={5} sm="2" className="person-wrapper">
-            <JLOPEZ className="shortpants" />
+          <Col xs={10} sm="2" className="person-wrapper">
+            <Image src={jlom} className="shortpants" />
             <h4>Jlom mini Jean</h4>
             <p className="text-wrapper">
               That's why I paint - because I can create the kind of world I want
@@ -25,8 +28,8 @@ class Home extends Component {
               Blue.
             </p>
           </Col>
-          <Col xs={12} sm="2" className="person-wrapper">
-            <JLOGLAD className="shortpants" />
+          <Col xs={10} sm="2" className="person-wrapper">
+            <Image src={jloGlad} className="shortpants" />
             <h4>Awesome Girl</h4>
             <p className="text-wrapper">
               This is truly an almighty mountain. It's almost like something out
@@ -36,11 +39,19 @@ class Home extends Component {
               painting. Zip. That easy.
             </p>
           </Col>
-          <Col xs={12} sm="2" className="person-wrapper">
-            <Image
-              src="../photos/photos/NickiMinaj54.png"
-              className="shortpants"
-            />
+          <Col xs={10} sm="2" className="person-wrapper">
+            <Image src={angel} className="shortpants" />
+            <h4>Angel Way 2</h4>
+            <p className="text-wrapper">
+              We artists are a different breed of people. We're a happy bunch.
+              You are only limited by your imagination. Don't fight it, use what
+              happens. You have to make these big decisions. Here's something
+              that's fun. I will take some magic white, and a little bit of
+              Vandyke brown and a little touch of yellow.
+            </p>
+          </Col>
+          <Col xs={10} sm="2" className="person-wrapper">
+            <Image src={nicky} className="shortpants" />
             <h4>Nicky Mania</h4>
             <p className="text-wrapper">
               So often we avoid running water, and running water is a lot of
@@ -55,8 +66,23 @@ class Home extends Component {
               whole community fantastic dividends.
             </p>
           </Col>
-          <Col xs={12} sm="2" className="person-wrapper">
-            <Image src="../photos/Yonc57.png" className="shortpants" />
+          <Col xs={10} sm="2" className="person-wrapper">
+            <Image src={beonc} className="shortpants" />
+            <h4>Be sure and See</h4>
+            <p className="text-wrapper">
+              Think about a cloud. Just float around and be there. This is your
+              creation - and it's just as unique and special as you are. Little
+              trees and bushes grow however makes them happy. We artists are a
+              different breed of people. We're a happy bunch. And I know you're
+              saying, 'Oh Bob, you've done it this time.' And you may be right.
+              You can't have light without dark. You can't know happiness unless
+              you've known sorrow. Let all these things just sort of happen.
+              When you buy that first tube of paint it gives you an artist
+              license.
+            </p>
+          </Col>
+          <Col xs={10} sm="2" className="person-wrapper">
+            <Image src={jlome} className="shortpants" />
             <h4>Be sure and See</h4>
             <p className="text-wrapper">
               Think about a cloud. Just float around and be there. This is your

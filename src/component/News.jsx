@@ -8,7 +8,7 @@ class News extends Component {
     return (
       <Container>
         <Jumb />
-        <p> NEWS PAGE</p>
+        <p> Blog and News</p>
       </Container>
     );
   }
