@@ -17,7 +17,7 @@ class CustomNavbar extends Component {
         </NavDropdown>
 
         <Navbar.Brand>
-          <Link to="/"> | Home | </Link>
+          <Link to="/Home"> | Home | </Link>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
 
