@@ -16,7 +16,7 @@ class Home extends Component {
         <Jumb />
         <Row className="show-grid text-center">
           <Col xs={10} sm="2" className="person-wrapper">
-            <Image src={jlom} className="shortpants" />
+            <Image src={jlom} className="shortpant" />
             <h4>Jlom mini Jean</h4>
             <p className="text-wrapper">
               That's why I paint - because I can create the kind of world I want

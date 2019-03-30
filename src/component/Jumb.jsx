@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import { Jumbotron, Button, Image } from "react-bootstrap";
 import chris from "../photos/VC0115.png";
 import "../sheets/Home.css";
+import "../sheets/CustomNavbar.css";
 
 const jumb = () => {
   return (

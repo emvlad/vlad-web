@@ -1,18 +1,14 @@
-
-
 .dropdown-item {
-  color:blue;
-  background-color: lightblue
+  color: blue;
+  background-color: lightblue;
 }
 
 .navbar {
- 
   background-color: blue;
 }
-.dropdown-menu{
-    background-color:lightblue
+.dropdown-menu {
+  background-color: lightblue;
 }
-
 
 a:hover {
   color: red;
@@ -25,8 +21,26 @@ a {
   color: yellow;
 }
 
-dropdown-item:focus, .dropdown-item:hover {
-    color: red;
-    text-decoration: none;
-    background-color: #f8f9fa;
+dropdown-item:focus,
+.dropdown-item:hover {
+  color: red;
+  text-decoration: none;
+  background-color: #f8f9fa;
+}
+
+.head {
+  animation: chris-rotate infinite 20s linear, pulse 3s ease infinite alternate,
+    nudge 5s linear infinite alternate;
+  height: 40vmin;
+  pointer-events: none;
+  height: 32vmin;
+}
+
+@keyframes chris-rotate {
+  from {
+    transform: rotateY(0deg);
+  }
+  to {
+    transform: rotateY(360deg);
+  }
 }

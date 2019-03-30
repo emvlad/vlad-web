@@ -21,7 +21,7 @@ p {
   color: yellow;
   text-align: justify;
 }
-img.shortpants {
+.shortpants {
   vertical-align: middle;
   border-style: none;
   height: 160px;
@@ -29,6 +29,45 @@ img.shortpants {
   margin: 2px;
   padding: 2px;
   border-radius: 20%;
+}
+.shortpants {
+  animation: pulse 3s ease infinite alternate,
+    nudge 5s linear infinite alternate;
+}
+.shortpant {
+  vertical-align: middle;
+  border-style: none;
+  height: 160px;
+  width: 160px;
+  margin: 2px;
+  padding: 2px;
+  border-radius: 20%;
+}
+.shortpant {
+  animation: chris-rotate infinite 20s linear, pulse 3s ease infinite alternate,
+    nudge 5s linear infinite alternate;
+  height: 40vmin;
+  pointer-events: none;
+  height: 32vmin;
+}
+
+@keyframes chris-rotate {
+  from {
+    transform: rotateY(0deg);
+  }
+  to {
+    transform: rotateY(360deg);
+  }
+}
+
+@keyframes pulse {
+  0%,
+  100% {
+    background-color: yellow;
+  }
+  50% {
+    background-color: red;
+  }
 }
 
 .row {
