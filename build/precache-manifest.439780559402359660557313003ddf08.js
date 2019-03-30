@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/vlad-web/static/media/jloGlad.ee301f57.png"
   },
   {
-    "revision": "5bdd267d7d3d10b90731",
-    "url": "/vlad-web/static/css/main.b9ad9ad3.chunk.css"
+    "revision": "1bed25ad459aab647d4f",
+    "url": "/vlad-web/static/css/main.b8c69cf9.chunk.css"
   },
   {
     "revision": "e0c3d97c2cbd3bce0d0f",
     "url": "/vlad-web/static/js/runtime~main.0f5d579e.js"
   },
   {
-    "revision": "3c51a06b45815ced8a22",
-    "url": "/vlad-web/static/js/2.c3a51cad.chunk.js"
+    "revision": "a3a435d866f0046d4bdf",
+    "url": "/vlad-web/static/js/2.9b2bfef6.chunk.js"
   },
   {
     "revision": "1921f09e57a8ca4b5eb4646bf0a015c4",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/vlad-web/static/media/15-jennifer-lopez.e33754ea.png"
   },
   {
-    "revision": "5bdd267d7d3d10b90731",
-    "url": "/vlad-web/static/js/main.fac3d524.chunk.js"
+    "revision": "1bed25ad459aab647d4f",
+    "url": "/vlad-web/static/js/main.296c18fd.chunk.js"
   },
   {
     "revision": "1f40f42f63c22927dd652754d5d08285",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/vlad-web/static/media/15-jlo11.700e7930.png"
   },
   {
-    "revision": "dedf292ed274d44fe6bf8a7eda51638d",
+    "revision": "90892a99bf392ffad042161da57c7cb2",
     "url": "/vlad-web/index.html"
   }
 ];
